@@ -1,5 +1,7 @@
 *.class
 *.log
 *.csv
+./*.csv
+./*.p
 *.p
 *.DS_Store
